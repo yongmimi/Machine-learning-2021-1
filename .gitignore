@@ -2,6 +2,7 @@
 samples/
 kakaomapkey.txt
 chromedriver.exe
+tree.dot
 
 # Editors
 .vscode/
