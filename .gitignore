@@ -3,6 +3,10 @@ samples/
 kakaomapkey.txt
 chromedriver.exe
 tree.dot
+corpus/
+nsmc-master/
+model/
+
 
 # Editors
 .vscode/
